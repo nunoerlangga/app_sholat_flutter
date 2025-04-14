@@ -1,0 +1,87 @@
+{
+    "tajwid": {
+      "nun_sukun_dan_tanwin": [
+        {
+            "nama": "Izhar",
+            "pengertian": "Membaca nun sukun atau tanwin secara jelas dan terang.",
+            "huruf": ["ء", "ه", "ع", "ح", "غ", "خ"],
+            "keterangan": "Dibaca jelas tanpa dengung saat bertemu huruf-huruf ini."
+          },
+        {
+          "nama": "Idgham",
+          "pengertian": "Memasukkan satu huruf ke huruf lain sehingga menjadi satu suara.",
+          "jenis": [
+            {
+              "nama": "Idgham Bighunnah",
+              "huruf": ["ي", "ن", "م", "و"],
+              "keterangan": "Dibaca dengung dan melebur ke huruf berikutnya."
+            },
+            {
+              "nama": "Idgham Bilaghunnah",
+              "huruf": ["ل", "ر"],
+              "keterangan": "Tidak dibaca dengung, tetapi tetap dilebur."
+            }
+          ]
+        },
+        {
+          "nama": "Iqlab",
+          "pengertian": "Mengganti bacaan nun sukun atau tanwin menjadi mim bila bertemu huruf ب.",
+          "huruf": ["ب"],
+          "keterangan": "Dibaca dengan dengung (ghunnah) dan disertai bibir tertutup."
+        },
+        {
+          "nama": "Ikhfa",
+          "pengertian": "Menyamarkan bacaan nun sukun atau tanwin saat bertemu huruf-huruf tertentu.",
+          "huruf": ["ت", "ث", "ج", "د", "ذ", "ز", "س", "ش", "ص", "ض", "ط", "ظ", "ف", "ق", "ك"],
+          "keterangan": "Dibaca samar antara nun dan huruf berikutnya dengan dengung."
+        }
+     
+      ],
+      "mim_sukun": [
+        {
+            "nama": "Izhar Syafawi",
+            "pengertian": "Jika mim sukun bertemu dengan huruf selain mim dan ba.",
+            "huruf": ["ء", "ت", "ث", "ج", "ح", "خ", "د", "ذ", "ر", "ز", "س", "ش", "ص", "ض", "ط", "ظ", "ع", "غ", "ف", "ق", "ك", "ل", "ن", "ه", "و", "ي"],
+            "keterangan": "Dibaca jelas tanpa dengung."
+          },
+          
+        {
+          "nama": "Idgham Mimi (Mutamatsilain)",
+          "pengertian": "Jika mim sukun bertemu mim, maka dibaca dengan dengung dan melebur.",
+          "huruf": ["م"],
+          "keterangan": "Dibaca dengan dengung selama dua harakat."
+        },
+        {
+          "nama": "Ikhfa Syafawi",
+          "pengertian": "Jika mim sukun bertemu dengan huruf ب.",
+          "huruf": ["ب"],
+          "keterangan": "Dibaca samar di bibir disertai dengung."
+        }
+    
+      ],
+      "lainnya": [
+        {
+          "nama": "Qalqalah",
+          "pengertian": "Memantulkan suara saat menyebutkan huruf-huruf tertentu dalam keadaan sukun.",
+          "huruf": ["ق", "ط", "ب", "ج", "د"],
+          "tingkatan": [
+            {
+              "nama": "Qalqalah Sugra",
+              "keterangan": "Jika huruf qalqalah berada di tengah kata dan sukun."
+            },
+            {
+              "nama": "Qalqalah Kubra",
+              "keterangan": "Jika huruf qalqalah berada di akhir kata dan diwaqafkan."
+            }
+          ]
+        },
+        {
+          "nama": "Ghunnah",
+          "pengertian": "Suara dengung yang keluar dari rongga hidung selama dua harakat.",
+          "huruf": ["ن", "م"],
+          "keterangan": "Muncul dalam hukum seperti Idgham Bighunnah, Iqlab, Ikhfa, dan Idgham Mimi. Wajib dibaca dengung."
+        }
+      ]
+    }
+  }
+  
