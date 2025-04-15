@@ -3,8 +3,8 @@
       "nun_sukun_dan_tanwin": [
         {
             "nama": "Izhar",
-            "pengertian": "Membaca nun sukun atau tanwin secara jelas dan terang.",
-            "huruf": ["ء", "ه", "ع", "ح", "غ", "خ"],
+            "pengertian": "Membaca نْ atau (ــًــ ــٍــ ــٌــ) secara jelas dan terang.",
+            "huruf": ["ا", "ه", "ع", "ح", "غ", "خ"],
             "keterangan": "Dibaca jelas tanpa dengung saat bertemu huruf-huruf ini."
           },
         {
@@ -25,13 +25,13 @@
         },
         {
           "nama": "Iqlab",
-          "pengertian": "Mengganti bacaan nun sukun atau tanwin menjadi mim bila bertemu huruf ب.",
+          "pengertian": "Mengganti bacaan نْ atau (ــًــ ــٍــ ــٌــ) menjadi م bila bertemu huruf ب.",
           "huruf": ["ب"],
           "keterangan": "Dibaca dengan dengung (ghunnah) dan disertai bibir tertutup."
         },
         {
           "nama": "Ikhfa",
-          "pengertian": "Menyamarkan bacaan nun sukun atau tanwin saat bertemu huruf-huruf tertentu.",
+          "pengertian": "Menyamarkan bacaan نْ atau (ــًــ ــٍــ ــٌــ) saat bertemu huruf-huruf tertentu.",
           "huruf": ["ت", "ث", "ج", "د", "ذ", "ز", "س", "ش", "ص", "ض", "ط", "ظ", "ف", "ق", "ك"],
           "keterangan": "Dibaca samar antara nun dan huruf berikutnya dengan dengung."
         }
@@ -40,20 +40,20 @@
       "mim_sukun": [
         {
             "nama": "Izhar Syafawi",
-            "pengertian": "Jika mim sukun bertemu dengan huruf selain mim dan ba.",
-            "huruf": ["ء", "ت", "ث", "ج", "ح", "خ", "د", "ذ", "ر", "ز", "س", "ش", "ص", "ض", "ط", "ظ", "ع", "غ", "ف", "ق", "ك", "ل", "ن", "ه", "و", "ي"],
+            "pengertian": "Jika مْ bertemu dengan huruf selain م dan ب.",
+            "huruf": ["ا", "ت", "ث", "ج", "ح", "خ", "د", "ذ", "ر", "ز", "س", "ش", "ص", "ض", "ط", "ظ", "ع", "غ", "ف", "ق", "ك", "ل", "ن", "ه", "و", "ي"],
             "keterangan": "Dibaca jelas tanpa dengung."
           },
           
         {
           "nama": "Idgham Mimi (Mutamatsilain)",
-          "pengertian": "Jika mim sukun bertemu mim, maka dibaca dengan dengung dan melebur.",
+          "pengertian": "Jika مْ bertemu م, maka dibaca dengan dengung dan melebur.",
           "huruf": ["م"],
           "keterangan": "Dibaca dengan dengung selama dua harakat."
         },
         {
           "nama": "Ikhfa Syafawi",
-          "pengertian": "Jika mim sukun bertemu dengan huruf ب.",
+          "pengertian": "Jika مْ bertemu dengan huruf ب.",
           "huruf": ["ب"],
           "keterangan": "Dibaca samar di bibir disertai dengung."
         }
@@ -64,10 +64,11 @@
           "nama": "Qalqalah",
           "pengertian": "Memantulkan suara saat menyebutkan huruf-huruf tertentu dalam keadaan sukun.",
           "huruf": ["ق", "ط", "ب", "ج", "د"],
+          "": "",
           "tingkatan": [
             {
               "nama": "Qalqalah Sugra",
-              "keterangan": "Jika huruf qalqalah berada di tengah kata dan sukun."
+              "keterangan": "Jika huruf qalqalah berada di tengah kata dan sukun. "
             },
             {
               "nama": "Qalqalah Kubra",
